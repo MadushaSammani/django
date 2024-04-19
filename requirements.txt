@@ -1,0 +1,54 @@
+affine==2.4.0
+asgiref==3.8.1
+attrs==23.2.0
+beautifulsoup4==4.12.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+click==8.1.7
+click-plugins==1.1.1
+cligj==0.7.2
+colorama==0.4.6
+contourpy==1.2.1
+cycler==0.12.1
+Django==5.0.4
+dnspython==2.6.1
+docopt==0.6.2
+fonttools==4.51.0
+GeoAlchemy2==0.14.7
+geopandas==0.14.3
+geoserver-rest==2.7.0
+greenlet==3.0.3
+idna==3.7
+Js2Py==0.74
+kiwisolver==1.4.5
+matplotlib==3.8.4
+munch==4.0.0
+packaging==24.0
+pandas @ file:///C:/Users/mmahagamage/pipwin/pandas-1.4.3-cp311-cp311-win_amd64.whl#sha256=e15e9bb910794fa7d7b517006090bd232e0b7ffd0fbca77fcd6126196c5f5c9c
+pillow==10.3.0
+pipwin==0.5.2
+postgres-helper==0.0.5
+psycopg2==2.9.9
+pycurl==7.45.3
+Pygments==2.17.2
+pyjsparser==2.7.1
+pymongo==4.6.3
+pyparsing==3.1.2
+PyPrind==2.11.3
+pySmartDL==1.3.4
+python-dateutil==2.9.0.post0
+pytz==2024.1
+rasterio @ file:///C:/Users/mmahagamage/pipwin/rasterio-1.2.10-cp311-cp311-win_amd64.whl#sha256=d91d5f2c67b31c42e799832f2a934f5a486f86c219619fcbda99ade4d4502f0e
+requests==2.31.0
+Rtree @ file:///C:/Users/mmahagamage/pipwin/Rtree-1.0.0-cp311-cp311-win_amd64.whl#sha256=38c58226fe8ed236084d437a41f829059857ade26204ab0f737d9785f5e5972d
+seaborn==0.13.2
+six==1.16.0
+snuggs==1.4.7
+soupsieve==2.5
+SQLAlchemy @ file:///C:/Users/mmahagamage/pipwin/SQLAlchemy-1.4.39-cp311-cp311-win_amd64.whl#sha256=81dd790f8b96e793151c10334ad96707e726cdb83a6ac8131506cd6fcc8d6246
+sqlparse==0.5.0
+typing_extensions==4.11.0
+tzdata==2024.1
+tzlocal==5.2
+urllib3==2.2.1
+xmltodict==0.13.0

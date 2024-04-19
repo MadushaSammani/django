@@ -1,0 +1,4 @@
+*.shp filter=lfs diff=lfs merge=lfs -text
+data/OSM.zip filter=lfs diff=lfs merge=lfs -text
+geoApp/2024/04/18/new_data/*.shp filter=lfs diff=lfs merge=lfs -text
+*.Shp filter=lfs diff=lfs merge=lfs -text

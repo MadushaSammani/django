@@ -1,0 +1,49 @@
+#map {
+    width: 100%; /* Set the width to 100% of its container */
+    height: 100vh;  /* Set initial height to 0 to maintain aspect ratio */
+    position: relative; /* Enable positioning context for absolutely positioned elements */
+}
+
+.map-coordinate{
+    position: absolute;
+    bottom: 2%;
+    right: 0;
+    padding: 8px;
+    color: #ffffff;
+    background-color: #094629;
+    border: 1px solid black;
+    border-radius: 2%;
+}
+
+.full-screen{
+    padding:5px;
+    background-color: #fff;
+    position: absolute;
+    right:10px;
+    top:210px;
+    border: 1px solid rgb(62, 60, 60);
+    border-radius: 3%;
+}
+
+.zoom-to-layer{
+    padding:5px;
+    background-color: #fff;
+    position: absolute;
+    right:10px;
+    top:170px;
+    border: 1px solid rgb(62, 60, 60);
+    border-radius: 3%;
+}
+
+.legend {
+    background: white;
+    padding: 12px; /* Increase padding to make the legend box bigger */
+    font-size: 14px; /* Increase font size */
+    line-height: 1.5; /* Increase line height if needed */
+    left: 5px;
+    width: 123px; 
+    height: 200px; 
+    position: absolute; /* Positioning relative to the map container */
+    top:270px;
+    z-index: 1000; /* Ensures that the legend appears above other map layers */
+}
